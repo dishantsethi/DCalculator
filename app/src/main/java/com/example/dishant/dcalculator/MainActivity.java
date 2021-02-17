@@ -196,7 +196,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         txtResults.setText("0");
         calculationsString="";
       //  txtCalculations.setText("0");
-
+      //end of program
 
     }
 
